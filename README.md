@@ -121,19 +121,40 @@ I am ready available for work (yes or no).....?  -  yes definitely I am availabl
 
 find me on social media - 
 
-LinkedIn -  https://www.linkedin.com/in/rushikesh-s-borude-23b380198/ 
+LinkedIn -  
 
-facebook -  https://www.facebook.com/rushikesh.borude.180 
+https://www.linkedin.com/in/rushikesh-s-borude-23b380198/ 
 
-Instagram - https://www.instagram.com/rushikesh.borude_offical/
+facebook - 
+
+https://www.facebook.com/rushikesh.borude.180 
+
+Instagram -
+
+https://www.instagram.com/rushikesh.borude_offical/
 
 
 
-portfolio - https://rushikeshborude.github.io/Portfolio-of-Software-Engineer-and-Full-Stack-Web-Developer-by-Rushikesh-Borude/
+portfolio   -   
 
-Twitter | X - https://twitter.com/RushikeshBorud1 
+ https://rushikeshborude.github.io/Portfolio-of-UI-UX-Designer-frontend-developer-with-1year-experience/
 
-GitHub -  https://github.com/RushikeshBorude 
+
+resume - 
+[Resume of UI UX Designer & frontend developer with 1year experience.pdf](https://github.com/user-attachments/files/15759198/Resume.of.UI.UX.Designer.frontend.developer.with.1year.experience.pdf)
+
+
+
+
+
+
+Twitter | X
+
+- https://twitter.com/RushikeshBorud1 
+
+GitHub 
+
+-  https://github.com/RushikeshBorude 
 
 
 Mo.no.- 8329436643	
