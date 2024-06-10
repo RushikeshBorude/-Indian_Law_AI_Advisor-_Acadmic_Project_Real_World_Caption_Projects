@@ -1,6 +1,17 @@
 project name - -Indian_Law_AI_Advisor-_Acadmic_Project_Real_World_Caption_Projects
 
 
+PPT of final frontend web developer Indian Law AI Advisor websites 
+
+[PPT of final frontend web developer Indian Law AI Advisor websites .pptx](https://github.com/user-attachments/files/15757224/PPT.of.final.frontend.web.developer.Indian.Law.AI.Advisor.websites.pptx)
+
+
+Case Study of final frontend web developer Indian Law AI Advisor websites
+
+[Case Study of final frontend web developer Indian Law AI Advisor websites.docx](https://github.com/user-attachments/files/15757226/Case.Study.of.final.frontend.web.developer.Indian.Law.AI.Advisor.websites.docx)
+
+
+
 (1/4)  project description - 
 
 
